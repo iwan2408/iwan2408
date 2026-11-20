@@ -314,20 +314,6 @@ Training & Continuous Improvement
 
 ---
 
-## Experience
-
-### IT Executive
-
-**Oriental Metal Industries (M) Sdn Bhd**  
-**2019 – Present**
-
-Application Development · Business Systems · IT Operations · End-User Support
-
-<br>
-
-> Building software is only part of the job. My focus is understanding the operational problem, developing a practical solution, deploying it into the working environment, and supporting the people who use it.
-
-<br>
 
 ---
 
