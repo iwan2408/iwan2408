@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:14243B,100:0969DA&text=MUHAMMAD%20RIDHWAN%20B.%20AZHAR&fontSize=36&fontColor=FFFFFF&fontAlignY=37&desc=IT%20Executive%20%E2%80%A2%20Full-Stack%20Application%20Developer&descSize=16&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:14243B,100:0969DA&text=MUHAMMAD%20RIDHWAN%20&fontSize=36&fontColor=FFFFFF&fontAlignY=37&desc=IT%20Executive%20%E2%80%A2%20Full-Stack%20Application%20Developer&descSize=16&descAlignY=55&animation=fadeIn" />
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=1000&color=0969DA&center=true&vCenter=true&repeat=true&width=800&height=38&lines=Full-Stack+Application+Development;Business+Systems+Development;Manufacturing+Digitalization;Enterprise+IT+Support"
@@ -417,7 +417,7 @@ Maintenance
 
 ## Let's Connect
 
-### Muhammad Ridhwan B. Azhar
+### MUHAMMAD RIDHWAN
 
 **IT Executive · Full-Stack Application Developer**
 
