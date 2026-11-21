@@ -122,6 +122,8 @@ Selected systems demonstrating practical experience in employee platforms, manuf
 
 <tr>
 
+<tr>
+
 <td width="50%" valign="top">
 
 <h2>01 · E-OMI</h2>
@@ -142,7 +144,8 @@ Employee-facing platform developed to support structured communication, employee
 ✓ Company policy processes<br>
 ✓ Role-based functionality<br>
 ✓ Structured administration<br>
-✓ Responsive employee interface
+✓ Responsive employee interface<br>
+✓ Digital acknowledgement workflows
 
 <br><br>
 
@@ -154,12 +157,18 @@ Supports up to <b>300 employees</b>.
 <code>PHP</code>
 <code>MySQL</code>
 <code>JavaScript</code>
+
 <br><br>
 
 <a href="https://github.com/iwan2408/employee-digital-platform">
-  <b>View Project Case Study →</b>
+  <img
+    src="https://img.shields.io/badge/VIEW_PROJECT_CASE_STUDY-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+    alt="View Employee Digital Platform Case Study"
+  />
 </a>
+
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -169,11 +178,13 @@ Supports up to <b>300 employees</b>.
 
 <br><br>
 
-Educational cybersecurity project developed to demonstrate the risks associated with untrusted public WiFi networks and deceptive online experiences.
+Educational cybersecurity project developed to demonstrate public WiFi risks, deceptive online experiences, and safer browsing practices.
 
 <br><br>
 
-<b>Key Highlights</b><br><br>
+<b>Key Highlights</b>
+
+<br><br>
 
 ✓ Public WiFi risk awareness<br>
 ✓ Controlled security demonstration<br>
@@ -184,8 +195,8 @@ Educational cybersecurity project developed to demonstrate the risks associated 
 
 <br><br>
 
-<b>Focus</b><br>
-Cybersecurity Awareness & Risk Prevention
+<b>Business Impact</b><br>
+Improves <b>cybersecurity awareness & risk recognition</b>.
 
 <br><br>
 
@@ -193,7 +204,17 @@ Cybersecurity Awareness & Risk Prevention
 <code>Network Security</code>
 <code>Awareness</code>
 
+<br><br>
+
+<a href="https://github.com/iwan2408/public-wifi-security-awareness">
+  <img
+    src="https://img.shields.io/badge/VIEW_PROJECT_CASE_STUDY-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+    alt="View Public WiFi Security Awareness Case Study"
+  />
+</a>
+
 </td>
+
 </tr>
 
 <tr>
