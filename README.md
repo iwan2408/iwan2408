@@ -163,39 +163,37 @@ Supports up to <b>300 employees</b>.
 
 <td width="50%" valign="top">
 
-<h2>02 · OMICA</h2>
+<h2>02 · Public WiFi Security Awareness</h2>
 
-<b>Manufacturing Process Digitalization</b>
-
-<br><br>
-
-Transformation of an Excel-based operational process into a structured, database-driven manufacturing web application.
+<b>Cybersecurity Awareness & Demonstration</b>
 
 <br><br>
 
-<b>Key Highlights</b>
+Educational cybersecurity project developed to demonstrate the risks associated with untrusted public WiFi networks and deceptive online experiences.
 
 <br><br>
 
-✓ Excel-to-web transformation<br>
-✓ Centralized operational records<br>
-✓ Database-driven workflows<br>
-✓ Structured data management<br>
-✓ Improved production visibility
+<b>Key Highlights</b><br><br>
+
+✓ Public WiFi risk awareness<br>
+✓ Controlled security demonstration<br>
+✓ Deceptive website awareness<br>
+✓ Credential protection education<br>
+✓ Network security concepts<br>
+✓ Video-based awareness content
 
 <br><br>
 
-<b>Business Area</b><br>
-Production / Manufacturing Operations
+<b>Focus</b><br>
+Cybersecurity Awareness & Risk Prevention
 
 <br><br>
 
-<code>PHP</code>
-<code>MySQL</code>
-<code>JavaScript</code>
+<code>Cybersecurity</code>
+<code>Network Security</code>
+<code>Awareness</code>
 
 </td>
-
 </tr>
 
 <tr>
