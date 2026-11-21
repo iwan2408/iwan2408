@@ -154,7 +154,11 @@ Supports up to <b>300 employees</b>.
 <code>PHP</code>
 <code>MySQL</code>
 <code>JavaScript</code>
+<br><br>
 
+<a href="https://github.com/iwan2408/employee-digital-platform">
+  <b>View Project Case Study →</b>
+</a>
 </td>
 
 <td width="50%" valign="top">
